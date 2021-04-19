@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3700d6c-6e04-48f2-b8e9-8203ad28b61e" name="Default Changelist" comment="6 задание 1 урока">
-      <change afterPath="$PROJECT_DIR$/Lesson_2/lesson2_task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/lesson2_task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.lesson2_task1">
+  <component name="RunManager" selected="Python.lesson2_task2">
     <configuration name="lesson1_task2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,27 +68,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1_task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson1_task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1_task3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -176,13 +155,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson2_task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\helloworld\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/lesson2_task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson2_task2" />
         <item itemvalue="Python.lesson2_task1" />
         <item itemvalue="Python.lesson2_task1" />
         <item itemvalue="Python.lesson1_task6" />
         <item itemvalue="Python.lesson1_task5" />
-        <item itemvalue="Python.lesson1_task4" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618205995132</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1 задание 2 урока">
+      <created>1618806141512</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618806141512</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -302,6 +309,7 @@
     <MESSAGE value="5 задание 1 урока" />
     <MESSAGE value="2 задание 1 урока" />
     <MESSAGE value="6 задание 1 урока" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 задание 1 урока" />
+    <MESSAGE value="1 задание 2 урока" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 задание 2 урока" />
   </component>
 </project>
